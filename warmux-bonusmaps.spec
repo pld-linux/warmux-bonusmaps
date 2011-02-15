@@ -1,5 +1,5 @@
-Summary:	Bonus map pack for Wormux
-Summary(pl.UTF-8):	Dodatkowy zestaw map dla gry Wormux
+Summary:	Bonus map pack for Warmux
+Summary(pl.UTF-8):	Dodatkowy zestaw map dla gry Warmux
 Name:		warmux-bonusmaps
 Version:	20100501
 Release:	1
