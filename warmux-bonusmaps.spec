@@ -7,7 +7,7 @@ License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://download.gna.org/warmux/Wormux-BonusMaps-%{version}.tar.gz
 # Source0-md5:	c6c969dbe3dabdef95fb3a99bb6bbeda
-URL:		http://www.wormux.org/
+URL:		http://www.warmux.org/
 Requires:	warmux >= 11.01
 Obsoletes:	wormux-bonusmaps
 BuildArch:	noarch
